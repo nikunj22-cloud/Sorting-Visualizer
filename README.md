@@ -4,7 +4,8 @@ A web application that visually demonstrates how popular sorting algorithms work
 
 ---
 
-## 🔧 Implemented Algorithms
+## 🔧 Implemented Algorithms 
+
 
 1. Bubble Sort
 2. Selection Sort
@@ -12,7 +13,7 @@ A web application that visually demonstrates how popular sorting algorithms work
 4. Merge Sort
 5. Quick Sort
 6. Heap Sort
-
+DEPLOYED-URL https://sorting-visualizer-seven-ashen.vercel.app
 ---
 
 ## 🎯 Features
